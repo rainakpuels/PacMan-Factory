@@ -23,6 +23,4 @@ No further development is expected.
 
 # Liscence Information 
 
-MIT License
-
-
+[MIT License](https://github.com/rainakpuels/PacMan-Factory/blob/default/LICENSE)
