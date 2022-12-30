@@ -1,8 +1,9 @@
 # PacMan Factory
-<img align="center" img width="400" alt="A PacMan factory game with yellow buttons with a white shadow in the corner. One says, 'Add PacMan' and when you click it, yellow open-mouth PacMen are added. THe second button 'Start Game' causes the PacMen to move across the screen and bounce and changhe direction when they hit a wall. The background is black with a classic PacMan maze in the center." src="images/PacMan-Factory.png">
+<p align="center"><img width="400" alt="A PacMan factory game with yellow buttons with a white shadow in the corner. One says, 'Add PacMan' and when you click it, yellow open-mouth PacMen are added. THe second button 'Start Game' causes the PacMen to move across the screen and bounce and changhe direction when they hit a wall. The background is black with a classic PacMan maze in the center." src="images/PacMan-Factory.png"> </p>
 
-[Click here to see the PacMan Factory in action] (https://rainakpuels.github.io/PacMan-Factory/)
 # About:
+
+ [Click here to see the PacMan Faxctory in action.](https://rainakpuels.github.io/PacMan-Factory)
 
 This is an exercise developed during MIT xPro Full Stack Professional Certificate in Coding.
 
