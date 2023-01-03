@@ -3,7 +3,7 @@
 
 # About:
 
- [Click here to see the PacMan Faxctory in action.](https://rainakpuels.github.io/PacMan-Factory)
+ [Click here to see the PacMan Factory in action.](https://rainakpuels.github.io/PacMan-Factory)
 
 This is an exercise developed during MIT xPro Full Stack Professional Certificate in Coding.
 
