@@ -1,5 +1,5 @@
 # PacMan Factory
-<p align="center"><img width="400" alt="A PacMan factory game with yellow buttons with a white shadow in the corner. One says, 'Add PacMan' and when you click it, yellow open-mouth PacMen are added. THe second button 'Start Game' causes the PacMen to move across the screen and bounce and changhe direction when they hit a wall. The background is black with a classic PacMan maze in the center." src="images/PacMan-Factory.png"> </p>
+<p align="center"><img width="400" alt="A PacMan factory game with yellow buttons with a white shadow in the corner. One says, 'Add PacMan' and when you click it, yellow open-mouth PacMen are added. THe second button 'Start Game' causes the PacMen to move across the screen and bounce and change direction when they hit a wall. The background is black with a classic PacMan maze in the center." src="images/PacMan-Factory.png"> </p>
 
 # About:
 
